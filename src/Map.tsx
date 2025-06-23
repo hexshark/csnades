@@ -11,11 +11,10 @@ type AllMapImages = {
 
 export default function Map(props: Readonly<MapProps>) {
     const [selected, setSelected] = useState("")
-    const filepath = "/cs/" + props.map;
+    const filepath = "/csnades/cs/" + props.map;
     const allImages = JSON.parse(JSON.stringify(mapImages)) as AllMapImages
     const images = allImages[props.map];
-    // console.log(filepath)
-    // console.log(images[0])
+    // console.log(filepath, images, props.map);
     const setSelect = (img: string) => {
         if (selected != img) {
             setSelected(img)
@@ -25,7 +24,7 @@ export default function Map(props: Readonly<MapProps>) {
         }
     }
     const imgClass = (img: string) => {
-        let baseClass = "map-preview min-size-50 size-200 sm:size-100 md:size-150 lg:size-120 px-2";
+        let baseClass = "map-preview min-size-50 xs:size-50 sm:size-60 md:size-70 lg:size-80 xl:size-100 2xl:size-120 px-2";
         if (img == selected) {
             baseClass += " selected"
         }

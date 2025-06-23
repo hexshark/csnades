@@ -37,11 +37,12 @@ function App() {
     document.cookie = "map=" + name + ";"
     // console.log(curMap, document.cookie);
   }
-  const renderMaps = () => {
+  const renderLogos = () => {
     const csmaps = maps()
+    const buttonClass = "size-14 md:size-16 lg:size-20 xl:size-28 p-2 aspect-square"
     const mapLogo = (name: string) => 
-      <button className={ name == curMap? "current-map p-2 aspect-square" : "p-2 aspect-square" } key={name} onClick={() => setMap(name)}>
-        <img src={"/cs/maps/" + name + "_logo.png"} className="min-w-20 min-h-20 w-20 h-20" alt={name} />
+      <button className={ name == curMap? "current-map " + buttonClass : buttonClass } key={name} onClick={() => setMap(name)}>
+        <img src={"/csnades/cs/maps/" + name + "_logo.png"} alt={name} />
       </button>
     
     return csmaps.map(m => {
@@ -49,15 +50,25 @@ function App() {
     })
   }
 
+  const renderMapImages = () => {
+    if (curMap) {
+      return <Map map={curMap} />
+    }
+    return <></>
+  }
+
   return (
     <>
-      <div className="px-4">gh
-        <h2 className="font-bold text-4xl">CS2 Nades - Utility Lineups</h2>
+      <div className="p-4 h-screen">
+        <div className="flex justify-center space-x-8">
+          <h2 className="font-bold px-6 text-2xl lg:text-4xl content-center hidden md:block">CS2 Nades - Utility Lineups</h2>
+          <div className="flex gap-3">{ renderLogos() }</div>
+        </div>
         <br/>
-        <div className="flex gap-3">{ renderMaps() }</div>
-        <br/>
-        <div className="flex flex-wrap flex-row">
-          <Map map={curMap} />
+        <div className="h-9/10">
+          <div className="flex flex-wrap flex-row overflow-auto h-full justify-center">
+            { renderMapImages() }
+          </div>
         </div>
       </div>
       {/* <div className="card">
