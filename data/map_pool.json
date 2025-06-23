@@ -1,0 +1,36 @@
+{
+    "maps": [
+        {
+            "map":"de_ancient",
+            "name": "Ancient"
+        },
+        {
+            "map":"de_anubis",
+            "name": "Anubis"
+        },
+        {
+            "map":"de_dust2",
+            "name": "Dust 2"
+        },
+        {
+            "map":"de_inferno",
+            "name": "Inferno"
+        },
+        {
+            "map":"de_mirage",
+            "name": "Mirage"
+        },
+        {
+            "map":"de_nuke",
+            "name": "Nuke"
+        },
+        {
+            "map":"de_train",
+            "name": "Train"
+        },
+        {
+            "map":"de_vertigo",
+            "name": "Vertigo"
+        }
+    ]
+}

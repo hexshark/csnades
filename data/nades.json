@@ -1,0 +1,3860 @@
+{
+    "de_ancient": {
+        "a": [
+            {
+                "description":"boost molly from halls",
+                "img":"A - boost molly from halls - RJT.jpg",
+                "type":["molly"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"donut smoke from CT spawn",
+                "img":"A - donut smoke from CT spawn - JT (stand in front of red sign).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"stand in front of red sign"
+            },
+            {
+                "description":"donut smoke from halls",
+                "img":"A - donut smoke from halls - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"elbow smoke from mid box",
+                "img":"A - elbow smoke from mid box - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"elbow smoke from T spawn",
+                "img":"A - elbow smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main lurk smoke from outside A",
+                "img":"A - main lurk smoke from outside A - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from elbow",
+                "img":"A - main smoke from elbow.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from temple entrance",
+                "img":"A - main smoke from temple entrance.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from halls",
+                "img":"A - site flash from halls - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"temple smoke from outside A",
+                "img":"A - temple smoke from outside A - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"temple smoke from stairs",
+                "img":"A - temple smoke from stairs - CJT (aim at tip of branch).jpg",
+                "type":["smoke"],
+                "action":"Crouch Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"aim at tip of branch"
+            }
+        ],
+        "b": [
+            {
+                "description":"cave flash",
+                "img":"B - cave flash - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cave flash from highway",
+                "img":"B - cave flash from highway - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cave molly from doors",
+                "img":"B - cave molly from doors - RJT.jpg",
+                "type":["molly"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cave molly",
+                "img":"B - cave molly.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cave pop flash from lamp",
+                "img":"B - cave pop flash from lamp - rCJT.jpg",
+                "type":["flash"],
+                "action":"Crouch Jumpthrow",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"cave smoke from back alley",
+                "img":"B - cave smoke from back alley - JT (stand on long ledge).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"stand on long ledge"
+            },
+            {
+                "description":"cave smoke from CT spawn (left stone)",
+                "img":"B - cave smoke from CT spawn (left stone) - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cheetah cubby nade from site (front of border)",
+                "img":"B - cheetah cubby nade from site (front of border) - d.jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"cubby molly from T spawn",
+                "img":"B - cubby molly from T spawn - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cubby molly",
+                "img":"B - cubby molly.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"default molly or nade from cave",
+                "img":"B - default molly or nade from cave - RT.jpg",
+                "type":["nade", "molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"entrance smoke from CT Spawn",
+                "img":"B - entrance smoke from CT Spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"entry flash from T doors (lineup at wall)",
+                "img":"B - entry flash from T doors (lineup at wall).jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from B main door (adjust for near far)",
+                "img":"B - heaven smoke from B main door (adjust for near far).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"highway nade from alley",
+                "img":"B - highway nade from alley - RT (release before cave).jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"release before cave"
+            },
+            {
+                "description":"jaguar molly from back alley",
+                "img":"B - jaguar molly from back alley - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"left cubby molly from T doors",
+                "img":"B - left cubby molly from T doors.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long molly from highway",
+                "img":"B - long molly from highway - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main left nade from back alley",
+                "img":"B - main left nade from back alley.jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main molly from alley",
+                "img":"B - main molly from alley - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main molly from back alley (release at end)",
+                "img":"B - main molly from back alley (release at end) - RJT.jpg",
+                "type":["molly"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main nade from back alley",
+                "img":"B - main nade from back alley - RT.jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from back alley (stand at double brick)",
+                "img":"B - main smoke from back alley (stand at double brick).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from back alley",
+                "img":"B - main smoke from back alley.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from back site",
+                "img":"B - main smoke from back site - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"main smoke from back site",
+                "img":"B - main smoke from back site - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid site smoke from T spawn",
+                "img":"B - mid site smoke from T spawn - WJT (lineup at left edge).jpg",
+                "type":["smoke"],
+                "action":"Walk Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"lineup at left edge"
+            },
+            {
+                "description":"mid site smoke from T spawn",
+                "img":"B - mid site smoke from T spawn - WJT (lineup at right edge).jpg",
+                "type":["smoke"],
+                "action":"Walk Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"lineup at right edge"
+            },
+            {
+                "description":"pillar flash from doors",
+                "img":"B - pillar flash from doors - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pillar molly from T doors (left)",
+                "img":"B - pillar molly from T doors (left).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pillar molly from T doors (right)",
+                "img":"B - pillar molly from T doors (right).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"right side molly from B main door",
+                "img":"B - right side molly from B main door - CWT.jpg",
+                "type":["molly"],
+                "action":"Crouch Walk Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"right side nade from B main door",
+                "img":"B - right side nade from B main door - WT.jpg",
+                "type":["nade"],
+                "action":"Walk Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from cave",
+                "img":"B - site flash from cave - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"site flash from T spawn",
+                "img":"B - site flash from T spawn - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "mid": [
+            {
+                "description":"all angle flash from T spawn",
+                "img":"Mid - all angle flash from T spawn - JT (aim at shadow).jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"aim at shadow"
+            },
+            {
+                "description":"CT retake flash from back alley",
+                "img":"Mid - CT retake flash from back alley - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"donut smoke from T spawn",
+                "img":"Mid - donut smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"elbow molly",
+                "img":"Mid - elbow molly - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"elbow smoke from CT spawn (left stone)",
+                "img":"Mid - elbow smoke from CT spawn (left stone) - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"elbow smoke from CT spawn (right stone)",
+                "img":"Mid - elbow smoke from CT spawn (right stone) - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"elbow smoke from CT Spawn",
+                "img":"Mid - elbow smoke from CT Spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from CT spawn",
+                "img":"Mid - heaven smoke from CT spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from T spawn",
+                "img":"Mid - heaven smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid flash 2 from back alley",
+                "img":"Mid - mid flash 2 from back alley - RJT.jpg",
+                "type":["flash"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid flash from back alley",
+                "img":"Mid - mid flash from back alley - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid flash from red",
+                "img":"Mid - mid flash from red - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid smoke 2 from T spawn",
+                "img":"Mid - mid smoke 2 from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid smoke from T spawn",
+                "img":"Mid - mid smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "z old _combo a": [
+            {
+                "description":" CT elbow smoke from outside A",
+                "img":"_COMBO A -  CT elbow smoke from outside A - JT (stand at left most).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"stand at left most"
+            }
+        ],
+        "_combo a": [
+            {
+                "description":" CT elbow smoke from outside A",
+                "img":"_COMBO A -  CT elbow smoke from outside A - JT (stand at left most).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"stand at left most"
+            },
+            {
+                "description":" donut smoke from outside A",
+                "img":"_COMBO A -  donut smoke from outside A - JT (stand at left most).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"stand at left most"
+            }
+        ],
+        "_combo b": [
+            {
+                "description":" cave smoke from outside doors",
+                "img":"_COMBO B -  cave smoke from outside doors - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":" long smoke from outside doors",
+                "img":"_COMBO B -  long smoke from outside doors - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":" short smoke from outside doors",
+                "img":"_COMBO B -  short smoke from outside doors - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    },
+    "de_anubis": {
+        "a": [
+            {
+                "description":"door smoke from boats",
+                "img":"A - door smoke from boats.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"door smoke from under heaven",
+                "img":"A - door smoke from under heaven.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main entrance smoke from tarp",
+                "img":"A - main entrance smoke from tarp.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main flash from carpet",
+                "img":"A - main flash from carpet - dRJT.jpg",
+                "type":["flash"],
+                "action":"Run Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"main flash from stairs",
+                "img":"A - main flash from stairs - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main pop flash from tarp",
+                "img":"A - main pop flash from tarp - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main pop flash from tarp",
+                "img":"A - main pop flash from tarp.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from CT spawn",
+                "img":"B - main smoke from CT spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from mid",
+                "img":"B - main smoke from mid - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from platform",
+                "img":"A - main smoke from platform.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside entrance nade from tarp",
+                "img":"A - outside entrance nade from tarp - JT (stand at tarp corner).jpg",
+                "type":["nade"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"stand at tarp corner"
+            },
+            {
+                "description":"site flash 2 from CT",
+                "img":"A - site flash 2 from CT.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from CT",
+                "img":"A - site flash from CT.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from door",
+                "img":"A - site flash from door - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from water",
+                "img":"A - site flash from water.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site nade (corner) from heaven",
+                "img":"A - site nade (corner) from heaven.jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site nade (default) from heaven",
+                "img":"A - site nade (default) from heaven - RT.jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site nade (under platform) from heaven",
+                "img":"A - site nade (under platform) from heaven - RT.jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site nade from heaven",
+                "img":"A - site nade from heaven - RT.jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"T ramp nade from platform",
+                "img":"A - T ramp nade from platform - RJT.jpg",
+                "type":["nade"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"T stairs smoke from CT spawn",
+                "img":"A - T stairs smoke from CT spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"tarp molly from boat",
+                "img":"A - tarp molly from boat - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"walkway smoke from alley",
+                "img":"A - walkway smoke from alley - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "b": [
+            {
+                "description":"backsite smoke from long door",
+                "img":"B - backsite smoke from long door - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT retake smoke from palace",
+                "img":"B - CT retake smoke from palace.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT smoke from outside B",
+                "img":"B - CT smoke from outside B.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ebox flash from canal",
+                "img":"B - ebox flash from canal - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ebox flash from canals",
+                "img":"B - ebox flash from canals - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ebox molly from canal",
+                "img":"B - ebox molly from canal - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ebox molly from CT",
+                "img":"B - ebox molly from CT.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ebox molly from mid",
+                "img":"B - ebox molly from mid.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ebox pop flash",
+                "img":"B - ebox pop flash - r.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"ebox pop flash",
+                "img":"B - ebox pop flash - rJT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"ebox smoke from CT",
+                "img":"B - ebox smoke from CT.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"left lurk smoke from outside B",
+                "img":"B - left lurk smoke from outside B - d.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"lurk smoke from T spawn",
+                "img":"B - lurk smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main god flash (top) from CT",
+                "img":"B - main god flash (top) from CT - WJT.jpg",
+                "type":["flash"],
+                "action":"Walk Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main god flash from CT",
+                "img":"B - main god flash from CT - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from CT spawn",
+                "img":"B - main smoke from CT spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from CT",
+                "img":"B - main smoke from CT.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from mid",
+                "img":"B - main smoke from mid - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from palace",
+                "img":"B - main smoke from palace - d.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"main smoke from palace",
+                "img":"B - main smoke from palace - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ninja molly from cave",
+                "img":"B - ninja molly from cave - RJT.jpg",
+                "type":["molly"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside cave smoke from ruins",
+                "img":"B - outside cave smoke from ruins.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside flash from site",
+                "img":"B - outside flash from site - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pillar nade from outside",
+                "img":"B - pillar nade from outside - RT (angle matters).jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"angle matters"
+            },
+            {
+                "description":"platform molly from outside B",
+                "img":"B - platform molly from outside B.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pop flash from outside B (at gate)",
+                "img":"B - pop flash from outside B (at gate).jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pop flash from outside T",
+                "img":"B - pop flash from outside T - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"quick outside flash from site",
+                "img":"B - quick outside flash from site - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"right lurk smoke from outside B",
+                "img":"B - right lurk smoke from outside B.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from ninja",
+                "img":"B - site flash from ninja - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from ruins",
+                "img":"B - site flash from ruins - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site pop flash from long",
+                "img":"B - site pop flash from long - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "mid": [
+            {
+                "description":"doors molly from ruins",
+                "img":"Mid - doors molly from ruins - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"double doors flash from top mid",
+                "img":"Mid - double doors flash from top mid.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"double doors molly from top mid",
+                "img":"Mid - double doors molly from top mid - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"double doors molly from top mid",
+                "img":"Mid - double doors molly from top mid.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid molly from top mid",
+                "img":"Mid - mid molly from top mid - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid smoke from A",
+                "img":"Mid - mid smoke from A - RT.jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid smoke from CT spawn",
+                "img":"Mid - mid smoke from CT spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"palace smoke from double doors",
+                "img":"Mid - palace smoke from double doors.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pop flash from mid",
+                "img":"Mid - pop flash from mid.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"self pop flash from mid doors",
+                "img":"Mid - self pop flash from mid doors - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"top mid nade",
+                "img":"Mid - top mid nade.jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"window molly from ruins",
+                "img":"Mid - window molly from ruins.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"window smoke for peek from mid",
+                "img":"Mid - window smoke for peek from mid - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"window smoke from mid",
+                "img":"Mid - window smoke from mid.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"window smoke from outside mid",
+                "img":"Mid - window smoke from outside mid.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"window smoke from T spawn",
+                "img":"Mid - window smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo a": [
+            {
+                "description":"plateau smoke from boat",
+                "img":"_COMBO A - plateau smoke from boat.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"stairs smoke from boat",
+                "img":"_COMBO A - stairs smoke from boat.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo a2": [
+            {
+                "description":"backsite molly from boat",
+                "img":"_COMBO A2 - backsite molly from boat - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from boat",
+                "img":"_COMBO A2 - heaven smoke from boat - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"platform smoke from boat",
+                "img":"_COMBO A2 - platform smoke from boat - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"stairs smoke from boat",
+                "img":"_COMBO A2 - stairs smoke from boat - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            }
+        ],
+        "_combo b": [
+            {
+                "description":" backsite smoke from gate",
+                "img":"_COMBO B -  backsite smoke from gate - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":" backsite smoke from long",
+                "img":"_COMBO B -  backsite smoke from long - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":" cave smoke from long",
+                "img":"_COMBO B -  cave smoke from long.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":" site smoke from long",
+                "img":"_COMBO B -  site smoke from long - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    },
+    "de_dust2": {
+        "a": [
+            {
+                "description":"boxes molly from short",
+                "img":"A - boxes molly from short.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"car molly from long",
+                "img":"A - car molly from long - WJT.jpg",
+                "type":["molly"],
+                "action":"Walk Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"car pop flash from car",
+                "img":"A - car pop flash from car.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cross smoke from long doors",
+                "img":"A - cross smoke from long doors.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT smoke from long",
+                "img":"A - CT smoke from long - RT.jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"deep CT smoke from long (middle of wall)",
+                "img":"A - deep CT smoke from long (middle of wall).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long doors molly",
+                "img":"A - long doors molly - RJT.jpg",
+                "type":["molly"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long flash 1 from ramp",
+                "img":"A - long flash 1 from ramp.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long flash 2 from ramp",
+                "img":"A - long flash 2 from ramp.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long flash from T spawn",
+                "img":"A - long flash from T spawn - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long pop flash",
+                "img":"A - long pop flash - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long pop flash from inside doors",
+                "img":"A - long pop flash from inside doors - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long self rush pop flash",
+                "img":"A - long self rush pop flash - rJT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"self pop flash at cross",
+                "img":"A - self pop flash at cross - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short double smoke 1",
+                "img":"A - short double smoke 1 - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short double smoke 2",
+                "img":"A - short double smoke 2.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short molly from CT spawn",
+                "img":"A - short molly from CT spawn - d.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"short molly from mid",
+                "img":"A - short molly from mid.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short pop flash from mid",
+                "img":"Mid - short pop flash from mid.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short smoke",
+                "img":"A - short smoke.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site & ninja molly from long coffee",
+                "img":"A - site & ninja molly from long coffee - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash 1 from long",
+                "img":"A - site flash 1 from long.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash 2 from long",
+                "img":"A - site flash 2 from long.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from CT spawn",
+                "img":"A - site flash from CT spawn.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from short",
+                "img":"A - site flash from short - dJT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"site molly & nade from CT spawn",
+                "img":"A - site molly & nade from CT spawn.jpg",
+                "type":["nade", "molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site molly from long",
+                "img":"A - site molly from long - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"T long flash from long (fence pole)",
+                "img":"A - T long flash from long (fence pole) - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "b": [
+            {
+                "description":"back platform molly from doors",
+                "img":"B - back platform molly from doors - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"box nade from tunnel",
+                "img":"B - box nade from tunnel - RT (walk right until aiming arch).jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"walk right until aiming arch"
+            },
+            {
+                "description":"default molly from outside B",
+                "img":"B - default molly from outside B.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"door smoke from T spawn",
+                "img":"B - door smoke from T spawn - JT (middle of door).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"middle of door"
+            },
+            {
+                "description":"door smoke from tunnel",
+                "img":"B - door smoke from tunnel.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid flash from site",
+                "img":"B - mid flash from site - rJT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"outside tunnel molly from tunnel",
+                "img":"B - outside tunnel molly from tunnel - JT (not so reliable).jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"not so reliable"
+            },
+            {
+                "description":"self flash at box",
+                "img":"B - self flash at box - CT.jpg",
+                "type":["flash"],
+                "action":"Crouch Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"self flash at box",
+                "img":"B - self flash at box - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"site deep lurk smoke from T spawn",
+                "img":"B - site deep lurk smoke from T spawn - RJT (release before crates).jpg",
+                "type":["smoke"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"release before crates"
+            },
+            {
+                "description":"site deep lurk smoke from upper tunnel",
+                "img":"B - site deep lurk smoke from upper tunnel.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from tunnel",
+                "img":"B - site flash from tunnel - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from tunnel corner- JT",
+                "img":"B - site flash from tunnel corner- JT.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from tunnel corner",
+                "img":"B - site flash from tunnel corner.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from tunnel",
+                "img":"B - site flash from tunnel.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site pop flash from car",
+                "img":"B - site pop flash from car.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site retake flash from mid",
+                "img":"B - site retake flash from mid.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"under window molly",
+                "img":"B - under window molly - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "mid": [
+            {
+                "description":"box smoke from T spawn",
+                "img":"Mid - box smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT spawn smoke from catwalk",
+                "img":"Mid - CT spawn smoke from catwalk - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT spawn smoke from mid",
+                "img":"Mid - CT spawn smoke from mid - CJT.jpg",
+                "type":["smoke"],
+                "action":"Crouch Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"door smoke 2 from T spawn",
+                "img":"Mid - door smoke 2 from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"door smoke from T spawn",
+                "img":"Mid - door smoke from T spawn - JT (corner of railing).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"corner of railing"
+            },
+            {
+                "description":"lurk smoke from lower tunnel",
+                "img":"Mid - lurk smoke from lower tunnel.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid pop flash from box",
+                "img":"Mid - mid pop flash from box.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short pop flash from mid",
+                "img":"Mid - short pop flash from mid.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo b": [
+            {
+                "description":"door smoke from outside tunnel",
+                "img":"_COMBO B - door smoke from outside tunnel - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"window smoke from outside tunnel",
+                "img":"_COMBO B - window smoke from outside tunnel - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    },
+    "de_inferno": {
+        "a": [
+            {
+                "description":"arch flash from mid",
+                "img":"A - arch flash from mid.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"arch molly from mid",
+                "img":"A - arch molly from mid.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"arch smoke from second mid",
+                "img":"A - arch smoke from second mid.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"balcony & short flash from balcony",
+                "img":"A - balcony & short flash from balcony.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"default molly from top of mailbox (corner)",
+                "img":"A - default molly from top of mailbox (corner).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"default nade from top of mailbox (away from corner)",
+                "img":"A - default nade from top of mailbox (away from corner).jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"graveyard smoke from arch (mailbox)",
+                "img":"A - graveyard smoke from arch (mailbox).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"library smoke from postcards",
+                "img":"A - library smoke from postcards - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"library smoke from top mid",
+                "img":"A - library smoke from top mid.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"long one way smoke from long",
+                "img":"A - long one way smoke from long - d.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"long smoke from top mid",
+                "img":"A - long smoke from top mid - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid flash from top mid",
+                "img":"A - mid flash from top mid.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid pop flash",
+                "img":"A - mid pop flash - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"mid pop flash",
+                "img":"A - mid pop flash - dRT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"mid pop flash",
+                "img":"A - mid pop flash - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid pop flash from quad",
+                "img":"A - mid pop flash from quad.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid smoke from boiler",
+                "img":"A - mid smoke from boiler.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"moto (deep) smoke from mid",
+                "img":"A - moto (deep) smoke from mid.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"moto (deep) smoke from pit",
+                "img":"A - moto (deep) smoke from pit.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"moto (deep) smoke from postcards stand",
+                "img":"A - moto (deep) smoke from postcards stand - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"moto smoke from balcony",
+                "img":"A - moto smoke from balcony - RT (one step).jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"one step"
+            },
+            {
+                "description":"moto smoke from mid",
+                "img":"A - moto smoke from mid - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"moto smoke from pit",
+                "img":"A - moto smoke from pit.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"moto smoke from second mid",
+                "img":"A - moto smoke from second mid - JT (middle of window).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"middle of window"
+            },
+            {
+                "description":"pit flash from apartments",
+                "img":"A - pit flash from apartments - CJT.jpg",
+                "type":["flash"],
+                "action":"Crouch Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pit god flash from short",
+                "img":"A - pit god flash from short - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pit molly from apartments",
+                "img":"A - pit molly from apartments.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pit molly from short",
+                "img":"A - pit molly from short - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pit smoke from second mid",
+                "img":"A - pit smoke from second mid - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"shelter molly from mid",
+                "img":"A - shelter molly from mid - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short + roof boost molly from top mid",
+                "img":"A - short + roof boost molly from top mid.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short + truck smoke from balcony (radiator)",
+                "img":"A - short + truck smoke from balcony (radiator).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short + truck smoke from balcony",
+                "img":"A - short + truck smoke from balcony - CT.jpg",
+                "type":["smoke"],
+                "action":"Crouch Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short molly from apartment",
+                "img":"A - short molly from apartment - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short nade from pit",
+                "img":"A - short nade from pit - RT.jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short pop flash",
+                "img":"A - short pop flash - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"short pop flash 2",
+                "img":"A - short pop flash 2 - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"short smoke from arch (first door line)",
+                "img":"A - short smoke from arch (first door line).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short smoke from pit",
+                "img":"A - short smoke from pit.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short smoke from second mid",
+                "img":"A - short smoke from second mid - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from short",
+                "img":"A - site flash from short - RJT.jpg",
+                "type":["flash"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site god flash from mailbox",
+                "img":"A - site god flash from mailbox.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site ninja molly from mailbox",
+                "img":"A - site ninja molly from mailbox.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site ninja molly from near mailbox (aim anywhere between lower black lines)",
+                "img":"A - site ninja molly from near mailbox (aim anywhere between lower black lines).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site self flash for short",
+                "img":"A - site self flash for short - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"T ramp molly from mid",
+                "img":"A - T ramp molly from mid.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "b": [
+            {
+                "description":"banana flash",
+                "img":"B - banana flash - RJT (run, jump, left click before landing).jpg",
+                "type":["flash"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"run, jump, left click before landing"
+            },
+            {
+                "description":"banana flash from coffins",
+                "img":"B - banana flash from coffins - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"banana flash from CT",
+                "img":"B - banana flash from CT - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"banana flash from CT",
+                "img":"B - banana flash from CT.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"banana flash from T spawn",
+                "img":"B - banana flash from T spawn - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"banana molly from CT",
+                "img":"B - banana molly from CT - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"banana molly or nade from site",
+                "img":"B - banana molly or nade from site - RJT (2nd pillar, release before fountain).jpg",
+                "type":["nade", "molly"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"2nd pillar, release before fountain"
+            },
+            {
+                "description":"banana nade from coffins",
+                "img":"B - banana nade from coffins.jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"banana pop flash",
+                "img":"B - banana pop flash - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"banana pop flash from T ramp",
+                "img":"B - banana pop flash from T ramp - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"banana roof pop flash from T ramp (right wall corner)",
+                "img":"B - banana roof pop flash from T ramp (right wall corner).jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"banana roof pop flash from T ramp",
+                "img":"B - banana roof pop flash from T ramp - CT (left wall line).jpg",
+                "type":["flash"],
+                "action":"Crouch Throw",
+                "mouse":"Left Click",
+                "remark":"left wall line"
+            },
+            {
+                "description":"banana smoke from coffins",
+                "img":"B - banana smoke from coffins - d (line up at cement bag).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":"line up at cement bag"
+            },
+            {
+                "description":"banana smoke from CT",
+                "img":"B - banana smoke from CT - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"car flash from cubby",
+                "img":"B - car flash from cubby.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"church pop flash from CT spawn",
+                "img":"B - church pop flash from CT spawn - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"church solo self flash from CT",
+                "img":"B - church solo self flash from CT - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT full smoke from banana",
+                "img":"B - CT full smoke from banana.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT smoke from banana",
+                "img":"B - CT smoke from banana.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"CT smoke from wall",
+                "img":"B - CT smoke from wall - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"dark molly from wall",
+                "img":"B - dark molly from wall.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"default molly from church",
+                "img":"B - default molly from church - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"fountain molly from banana",
+                "img":"B - fountain molly from banana - dJT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"fountain molly from car",
+                "img":"B - fountain molly from car - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"fountain molly from wall",
+                "img":"B - fountain molly from wall - RT (one step).jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"one step"
+            },
+            {
+                "description":"new box molly from car",
+                "img":"_COMBO B - new box molly from car.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"new box molly from site entrance",
+                "img":"B - new box molly from site entrance.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"orange 1st molly from car",
+                "img":"B - orange 1st molly from car.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"orange 2nd molly from car",
+                "img":"B - orange 2nd molly from car.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"orange nade from car",
+                "img":"B - orange nade from car - RT.jpg",
+                "type":["nade"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"rush flash 1 from banana",
+                "img":"B - rush flash 1 from banana.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"rush flash 2 from banana",
+                "img":"B - rush flash 2 from banana - rJT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"sandbag molly from banana",
+                "img":"B - sandbag molly from banana - RT (one step).jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"one step"
+            },
+            {
+                "description":"sandbag pop flash from T ramp (left wall)",
+                "img":"B - sandbag pop flash from T ramp (left wall).jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"sandbag rush molly from banana",
+                "img":"B - sandbag rush molly from banana - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"sandbags molly from banana",
+                "img":"B - sandbags molly from banana - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site & CT flash from wall",
+                "img":"B - site & CT flash from wall.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from banana (aim at bottom left)",
+                "img":"B - site flash from banana (aim at bottom left).jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from wall",
+                "img":"B - site flash from wall - dJT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"site god flash from banana",
+                "img":"B - site god flash from banana - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site lurk smoke 2 from wall",
+                "img":"B - site lurk smoke 2 from wall.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site lurk smoke from wall",
+                "img":"B - site lurk smoke from wall.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site pop flash from coffins",
+                "img":"B - site pop flash from coffins - rJT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"site self flash from orange",
+                "img":"B - site self flash from orange.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "mid": [
+            {
+                "description":"banana smoke from truck",
+                "img":"Mid - banana smoke from truck - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"deep mid smoke from CT spawn",
+                "img":"Mid - deep mid smoke from CT spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"kitchen molly from second mid doors (door corner)",
+                "img":"Mid - kitchen molly from second mid doors (door corner) - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"pop flash from T ramp",
+                "img":"Mid - pop flash from T ramp - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "old _combo b": [
+            {
+                "description":"coffins smoke from car",
+                "img":"old _COMBO B - coffins smoke from car - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo b": [
+            {
+                "description":"coffins smoke from car",
+                "img":"_COMBO B - coffins smoke from car - RJT (aim at middle of light & dark texture).jpg",
+                "type":["smoke"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"aim at middle of light & dark texture"
+            },
+            {
+                "description":"CT smoke from car",
+                "img":"_COMBO B - CT smoke from car - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"new box molly from car",
+                "img":"_COMBO B - new box molly from car.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"orange molly from car",
+                "img":"_COMBO B - orange molly from car.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    },
+    "de_mirage": {
+        "a": [
+            {
+                "description":"connector flash from jungle",
+                "img":"A - connector flash from jungle - RT (release on wooden bar).jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"release on wooden bar"
+            },
+            {
+                "description":"main nade or molly from ticket",
+                "img":"A - main nade or molly from ticket - RT.jpg",
+                "type":["nade", "molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main pop flash from ticket",
+                "img":"A - main pop flash from ticket - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"main smoke from behind ticket",
+                "img":"A - main smoke from behind ticket - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from ticket",
+                "img":"A - main smoke from ticket - RT.jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"palace double molly from main",
+                "img":"A - palace double molly from main.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"palace double molly from palace",
+                "img":"A - palace double molly from palace.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"palace lurk smoke",
+                "img":"A - palace lurk smoke.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"palace smoke from jungle",
+                "img":"A - palace smoke from jungle - RT.jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"palace smoke from outside market",
+                "img":"A - palace smoke from outside market - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"sandwich molly from T spawn",
+                "img":"_COMBO A3 - sandwich molly from T spawn.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from palace",
+                "img":"A - site flash from palace - d (align at arrow tip).jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":"align at arrow tip"
+            },
+            {
+                "description":"stairs molly from main",
+                "img":"A - stairs molly from main.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"under palace molly from palace",
+                "img":"A - under palace molly from palace - RT (release at last wall).jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"release at last wall"
+            },
+            {
+                "description":"under stairs smoke from main",
+                "img":"A - under stairs smoke from main.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "b": [
+            {
+                "description":"bench smoke from market",
+                "img":"B - bench smoke from market.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"catwalk pop flash from short",
+                "img":"B - catwalk pop flash from short.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"default molly from market (at wall plug)",
+                "img":"B - default molly from market (at wall plug) - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"market pop flash from site",
+                "img":"B - market pop flash from site.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"market smoke from van",
+                "img":"B - market smoke from van - dRT.jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"market window smoke from van",
+                "img":"B - market window smoke from van - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"short smoke from back alley",
+                "img":"B - short smoke from back alley.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short smoke from ladder room",
+                "img":"B - short smoke from ladder room.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"short smoke from T spawn",
+                "img":"B - short smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from apartments",
+                "img":"B - site flash from apartments.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from back alley",
+                "img":"B - site flash from back alley - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site pop flash from market",
+                "img":"B - site pop flash from market - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"van anchor smoke",
+                "img":"B - van anchor smoke.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"van smoke from back alley",
+                "img":"B - van smoke from back alley - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "mid": [
+            {
+                "description":"B short smoke from T spawn",
+                "img":"Mid - B short smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"B short smoke from underpass",
+                "img":"Mid - B short smoke from underpass - RT (poster).jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"poster"
+            },
+            {
+                "description":"boxes molly from jungle",
+                "img":"Mid - boxes molly from jungle - RJT.jpg",
+                "type":["molly"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"cat smoke from T spawn",
+                "img":"Mid - cat smoke from T spawn - JT (left).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"left"
+            },
+            {
+                "description":"connector smoke from T spawn",
+                "img":"Mid - connector smoke from T spawn - JT (left of trashcan).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"left of trashcan"
+            },
+            {
+                "description":"cross smoke from T spawn (left of trashcan)",
+                "img":"Mid - cross smoke from T spawn (left of trashcan).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"god flash from underpass",
+                "img":"Mid - god flash from underpass - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"jungle pop flash",
+                "img":"Mid - jungle pop flash.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"jungle smoke from top mid",
+                "img":"Mid - jungle smoke from top mid - RT (one step, stand on line).jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"one step, stand on line"
+            },
+            {
+                "description":"jungle smoke from underpass",
+                "img":"Mid - jungle smoke from underpass.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid flash from B",
+                "img":"Mid - mid flash from B - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mid flash from B short",
+                "img":"Mid - mid flash from B short - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"underpass molly from B short",
+                "img":"Mid - underpass molly from B short - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"underpass pop flash",
+                "img":"Mid - underpass pop flash - rRT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Right Click",
+                "remark":""
+            }
+        ],
+        "mid -jungle smoke from t spawn": [
+            {
+                "description":"JT (holding D, left of trashcan)",
+                "img":"Mid -jungle smoke from T spawn - JT (holding D, left of trashcan).jpg",
+                "type":[],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"JT (holding D, right of trashcan)",
+                "img":"Mid -jungle smoke from T spawn - JT (holding D, right of trashcan).jpg",
+                "type":[],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo a": [
+            {
+                "description":"1) stairs smoke from T spawn",
+                "img":"_COMBO A - 1) stairs smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"2) connector smoke from T spawn",
+                "img":"_COMBO A - 2) connector smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"3) ticket smoke from T spawn",
+                "img":"_COMBO A - 3) ticket smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo a2": [
+            {
+                "description":"connector smoke from T spawn",
+                "img":"_COMBO A2 - connector smoke from T spawn.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"stairs smoke from T spawn",
+                "img":"_COMBO A3 - stairs smoke from T spawn - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            }
+        ],
+        "_combo a3": [
+            {
+                "description":"connector smoke from T spawn",
+                "img":"_COMBO A3 - connector smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"sandwich molly from T spawn",
+                "img":"_COMBO A3 - sandwich molly from T spawn.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"stairs smoke from T spawn",
+                "img":"_COMBO A3 - stairs smoke from T spawn - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            }
+        ],
+        "_combo b": [
+            {
+                "description":"1) B short smoke from back alley",
+                "img":"_COMBO B - 1) B short smoke from back alley.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"2) market window smoke from back alley",
+                "img":"_COMBO B - 2) market window smoke from back alley - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"3) market smoke from back alley",
+                "img":"_COMBO B - 3) market smoke from back alley - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    },
+    "de_nuke": {
+        "a": [
+            {
+                "description":"heaven + site flash from T roof",
+                "img":"A - heaven + site flash from T roof - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven anynade from site",
+                "img":"A - heaven anynade from site.jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from beside vent",
+                "img":"A - heaven smoke from beside vent - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from hut",
+                "img":"A - heaven smoke from hut.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from T roof",
+                "img":"A - heaven smoke from T roof - JT (glass at the back must not be broken).jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"glass at the back must not be broken"
+            },
+            {
+                "description":"hut molly from heaven (stand at black dot on right wall)",
+                "img":"A - hut molly from heaven (stand at black dot on right wall).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"hut molly from roof stair",
+                "img":"A - hut molly from roof stair - RT (release at next stair).jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"release at next stair"
+            },
+            {
+                "description":"hut molly from T roof",
+                "img":"A - hut molly from T roof - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"hut molly from T roof",
+                "img":"A - hut molly from T roof - WJT.jpg",
+                "type":["molly"],
+                "action":"Walk Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"lobby pop flash from hut",
+                "img":"A - lobby pop flash from hut.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main flash from lobby",
+                "img":"A - main flash from lobby - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from front of hut",
+                "img":"A - main smoke from front of hut - d.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"main smoke from site (postplant)",
+                "img":"A - main smoke from site (postplant).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"mini smoke from T roof",
+                "img":"A - mini smoke from T roof - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"outside fast flash from T spawn",
+                "img":"A - outside fast flash from T spawn - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside flash from site",
+                "img":"A - outside flash from site - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside flash from T spawn",
+                "img":"A - outside flash from T spawn - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside flash from under silo",
+                "img":"A - outside flash from under silo - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside silo smoke from T spawn",
+                "img":"A - outside silo smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"self pop flash 2 from hut",
+                "img":"A - self pop flash 2 from hut - RT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"self pop flash from hut",
+                "img":"A - self pop flash from hut.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"self rush pop flash from hut",
+                "img":"A - self rush pop flash from hut - RT (run to right hand side to avoid flash).jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"run to right hand side to avoid flash"
+            },
+            {
+                "description":"silo molly from outside garage",
+                "img":"A - silo molly from outside garage - WJT.jpg",
+                "type":["molly"],
+                "action":"Walk Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"silo nade from heaven (leftmost)",
+                "img":"A - silo nade from heaven (leftmost).jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site & silo molly from T roof",
+                "img":"A - site & silo molly from T roof - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from door",
+                "img":"A - site flash from door - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site molly from T roof",
+                "img":"A - site molly from T roof - JT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site pop flash from heaven",
+                "img":"A - site pop flash from heaven.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site silo big smoke from T spawn",
+                "img":"A - site silo big smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"squeaky molly from heaven (line up at left wall)",
+                "img":"A - squeaky molly from heaven (line up at left wall).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"squeaky molly from heaven",
+                "img":"A - squeaky molly from heaven.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"T outside molly from CT spawn",
+                "img":"A - T outside molly from CT spawn - RT (release on ledge).jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"release on ledge"
+            },
+            {
+                "description":"vent pop flash from outside hut",
+                "img":"A - vent pop flash from outside hut - JT (rush immediately after jump).jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"rush immediately after jump"
+            },
+            {
+                "description":"vent smoke from T spawn",
+                "img":"A - vent smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "b": [
+            {
+                "description":"box & pillar molly from left ramp",
+                "img":"B - box & pillar molly from left ramp - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"control room smoke from ramp",
+                "img":"B - control room smoke from ramp.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"dark molly from ramp",
+                "img":"B - dark molly from ramp - CT.jpg",
+                "type":["molly"],
+                "action":"Crouch Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ramp all flash from lobby",
+                "img":"B - ramp all flash from lobby - d.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"ramp peek pop flash from lobby",
+                "img":"B - ramp peek pop flash from lobby.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ramp smoke from lobby",
+                "img":"B - ramp smoke from lobby - RT (prep at 3rd handle).jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"prep at 3rd handle"
+            },
+            {
+                "description":"single door smoke from rail",
+                "img":"B - single door smoke from rail - d.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Double CLick",
+                "remark":""
+            }
+        ],
+        "old": [
+            {
+                "description":"main smoke from T spawn",
+                "img":"_COMBO A - main smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside smoke 1 from T spawn- JT",
+                "img":"Old - outside smoke 1 from T spawn- JT.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside smoke 2 from T spawn- JT",
+                "img":"Old - outside smoke 2 from T spawn- JT.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo a": [
+            {
+                "description":"main smoke from T spawn",
+                "img":"_COMBO A - main smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside smoke 1 from T spawn",
+                "img":"_COMBO A - outside smoke 1 from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside smoke 2 from T spawn",
+                "img":"_COMBO A - outside smoke 2 from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo a2": [
+            {
+                "description":"outside flash",
+                "img":"_COMBO A2 - outside flash.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"outside smoke 1 from T box",
+                "img":"_COMBO A2 - outside smoke 1 from T box - dJT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Double CLick",
+                "remark":""
+            },
+            {
+                "description":"outside smoke 2 from T box",
+                "img":"_COMBO A2 - outside smoke 2 from T box.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    },
+    "de_train": {
+        "a": [
+            {
+                "description":"cross smoke from T spawn",
+                "img":"A - cross smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ivy rush molly from T spawn",
+                "img":"A - ivy rush molly from T spawn - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ladder room smoke from T spawn",
+                "img":"A - ladder room smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"longdog smoke from T spawn (crouch, aim at white, stand)",
+                "img":"A - longdog smoke from T spawn (crouch, aim at white, stand).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main flash from T spawn",
+                "img":"A - main flash from T spawn - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main molly from connector",
+                "img":"A - main molly from connector - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main molly from CT tunnel",
+                "img":"A - main molly from CT tunnel - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main molly from outside connector",
+                "img":"A - main molly from outside connector.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main nade & molly from outside connector",
+                "img":"A - main nade & molly from outside connector - JT.jpg",
+                "type":["nade", "molly"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"sandwich & left smoke from T spawn",
+                "img":"A - sandwich & left smoke from T spawn.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"sandwich smoke from T spawn -dJT",
+                "img":"A - sandwich smoke from T spawn -dJT.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from T spawn (green sign)",
+                "img":"A - site flash from T spawn (green sign) - JT.jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site molly from main",
+                "img":"A - site molly from main - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"tunnel smoke from ladder (lowest step)",
+                "img":"A - tunnel smoke from ladder (lowest step).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"tunnel smoke from T spawn",
+                "img":"A - tunnel smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"Z smoke 2 from T spawn",
+                "img":"A - Z smoke 2 from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"Z smoke from T spawn",
+                "img":"A - Z smoke from T spawn - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "b": [
+            {
+                "description":"cubby flash from CT side",
+                "img":"B - cubby flash from CT side - RJT.jpg",
+                "type":["flash"],
+                "action":"Run Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from backsite",
+                "img":"B - heaven smoke from backsite - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"heaven smoke from CT",
+                "img":"B - heaven smoke from CT - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"main smoke from CT",
+                "img":"B - main smoke from CT - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"rush flash from corridor",
+                "img":"B - rush flash from corridor - rRT.jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"rush flash from T office",
+                "img":"B - rush flash from T office - RT (stick left, throw after reaching shadow).jpg",
+                "type":["flash"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"stick left, throw after reaching shadow"
+            },
+            {
+                "description":"site flash from back (white line on the left of window)",
+                "img":"B - site flash from back (white line on the left of window).jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from back of B",
+                "img":"B - site flash from back of B.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from heaven",
+                "img":"B - site flash from heaven.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"stairs smoke from backsite",
+                "img":"B - stairs smoke from backsite - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"thomas combo 1 smoke left",
+                "img":"B - thomas combo 1 smoke left.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"thomas combo 1 smoke right",
+                "img":"B - thomas combo 1 smoke right.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"thomas combo 2 smoke left",
+                "img":"B - thomas combo 2 smoke left - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"thomas combo 2 smoke right",
+                "img":"B - thomas combo 2 smoke right.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"thomas smoke left",
+                "img":"B - thomas smoke left.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"Z smoke from ladder",
+                "img":"B - Z smoke from ladder - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    },
+    "de_vertigo": {
+        "a": [
+            {
+                "description":"headshot smoke from ramp",
+                "img":"_COMBO A - headshot smoke from ramp.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"headshot smoke lineup position",
+                "img":"A - headshot smoke lineup position.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"left site smoke from ramp",
+                "img":"A - left site smoke from ramp - JT.jpg",
+                "type":["smoke"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"ramp molly from side door",
+                "img":"A - ramp molly from side door - rJT.jpg",
+                "type":["molly"],
+                "action":"Jumpthrow",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"ramp nade from side door",
+                "img":"A - ramp nade from side door.jpg",
+                "type":["nade"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"scaffolding molly from side door",
+                "img":"A - scaffolding molly from side door.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "b": [
+            {
+                "description":"back generator smoke from ramp (crouch, aim at right of dark spot, stand up)",
+                "img":"B - back generator smoke from ramp (crouch, aim at right of dark spot, stand up).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"backsite molly from stairs (black dot at box)",
+                "img":"B - backsite molly from stairs (black dot at box).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"backsite molly from stairs",
+                "img":"B - backsite molly from stairs - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"catwalk molly from stairs",
+                "img":"B - catwalk molly from stairs.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"default molly from ramp",
+                "img":"B - default molly from ramp.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"guardian smoke from ramp",
+                "img":"B - guardian smoke from ramp - CJT.jpg",
+                "type":["smoke"],
+                "action":"Crouch Jumpthrow",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"inner stairs nade",
+                "img":"B - inner stairs nade - JT (release when starting to fall).jpg",
+                "type":["nade"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"release when starting to fall"
+            },
+            {
+                "description":"pop flash from mid cement",
+                "img":"B - pop flash from mid cement - JT (rush immediately after jump).jpg",
+                "type":["flash"],
+                "action":"Jumpthrow",
+                "mouse":"Left Click",
+                "remark":"rush immediately after jump"
+            },
+            {
+                "description":"redbox molly from stairs (black dot at box)",
+                "img":"B - redbox molly from stairs (black dot at box).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site flash from ramp",
+                "img":"B - site flash from ramp.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"site molly from stairs (black dot at box)",
+                "img":"B - site molly from stairs (black dot at box).jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"solo exec lineup position",
+                "img":"B - solo exec lineup position.jpg",
+                "type":[],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"stairs molly from site",
+                "img":"B - stairs molly from site - RT.jpg",
+                "type":["molly"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"stairs pop flash from T spawn",
+                "img":"B - stairs pop flash from T spawn.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "mid": [
+            {
+                "description":"pop flash from CT",
+                "img":"Mid - pop flash from CT - r.jpg",
+                "type":["flash"],
+                "action":"Stationary",
+                "mouse":"Right Click",
+                "remark":""
+            },
+            {
+                "description":"ramp smoke from CT spawn",
+                "img":"Mid - ramp smoke from CT spawn - RT (release at 2nd last line).jpg",
+                "type":["smoke"],
+                "action":"Run Throw",
+                "mouse":"Left Click",
+                "remark":"release at 2nd last line"
+            }
+        ],
+        "_combo a": [
+            {
+                "description":"catwalk smoke from ramp",
+                "img":"_COMBO A - catwalk smoke from ramp.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"headshot molly from ramp",
+                "img":"_COMBO A - headshot molly from ramp.jpg",
+                "type":["molly"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"headshot smoke from ramp",
+                "img":"_COMBO A - headshot smoke from ramp.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"left site smoke (block elevator) from ramp",
+                "img":"_COMBO A - left site smoke (block elevator) from ramp.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ],
+        "_combo b": [
+            {
+                "description":"cross smoke from stairs box",
+                "img":"_COMBO B - cross smoke from stairs box.jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"redbox smoke from stairs box (more coverage at backsite)",
+                "img":"_COMBO B - redbox smoke from stairs box (more coverage at backsite).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            },
+            {
+                "description":"redbox smoke from stairs box (more coverage at mid)",
+                "img":"_COMBO B - redbox smoke from stairs box (more coverage at mid).jpg",
+                "type":["smoke"],
+                "action":"Stationary",
+                "mouse":"Left Click",
+                "remark":""
+            }
+        ]
+    }
+}
