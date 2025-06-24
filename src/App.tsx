@@ -35,11 +35,11 @@ function App() {
   const setMap = (name: string) => {
     setCurMap(name)
     document.cookie = "map=" + name + ";"
-    // console.log(curMap, document.cookie);
   }
   const renderLogos = () => {
     const csmaps = maps()
-    const buttonClass = "size-14 md:size-16 lg:size-20 xl:size-28 p-2 aspect-square"
+    // const buttonClass = "size-14 md:size-16 lg:size-20 xl:size-28 p-2 aspect-square"
+    const buttonClass = "size-fit max-size-20 p-2 aspect-square"
     const mapLogo = (name: string) => 
       <button className={ name == curMap? "current-map " + buttonClass : buttonClass } key={name} onClick={() => setMap(name)}>
         <img src={"/csnades/cs/maps/" + name + "_logo.png"} alt={name} />
@@ -56,36 +56,28 @@ function App() {
     }
     return <></>
   }
+  const resetCur = () => {
+    setCurMap("");
+    document.cookie = "map=";
+  }
 
   return (
-    <>
-      <div className="p-4 h-screen">
+    <div className="p-4 h-screen">
+      <div className={ curMap == "" ? "h-auto" : "h-12/100"}>
         <div className="flex justify-center space-x-8">
-          <h2 className="font-bold px-6 text-2xl lg:text-4xl content-center hidden md:block">CS2 Nades - Utility Lineups</h2>
+          <h2 className="font-bold px-6 text-xl lg:text-3xl content-center hidden md:block">
+            CS2 Nades - Utility Lineups <span className="font-extrabold cursor-pointer text-xl text-gray-600 hover:text-gray-50" onKeyUp={() => resetCur()} onClick={() => resetCur()}>⟲</span>
+          </h2>
           <div className="flex gap-3">{ renderLogos() }</div>
         </div>
-        <br/>
-        <div className="h-9/10">
-          <div className="flex flex-wrap flex-row overflow-auto h-full justify-center">
-            { renderMapImages() }
-          </div>
+      </div>
+      <div className={ curMap == "" ? "h-0" : "h-2/100"}/>
+      <div className={ curMap == "" ? "h-0" : "h-86/100"}>
+        <div className="flex flex-wrap flex-row overflow-auto h-full justify-center">
+          { renderMapImages() }
         </div>
       </div>
-      {/* <div className="card">
-        <div className="flex" style={{ minWidth: "100%" }}>
-          <a className="preview w-100 h-100" style={{ backgroundImage: `url("/Z.jpg")` }} />
-        </div>
-        <br/>
-        <img src="/cs/de_ancient/A - boost molly from halls - RJT.jpg" className="preview w-100 h-100" alt="ancient" />
-        <img src="/cs/de_ancient/A - boost molly from halls - RJT.jpg" className="hidden" alt="ancient" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div> */}
-      {/* <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p> */}
-    </>
+    </div>
   )
 }
 

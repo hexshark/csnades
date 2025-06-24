@@ -14,7 +14,6 @@ export default function Map(props: Readonly<MapProps>) {
     const filepath = "/csnades/cs/" + props.map;
     const allImages = JSON.parse(JSON.stringify(mapImages)) as AllMapImages
     const images = allImages[props.map];
-    // console.log(filepath, images, props.map);
     const setSelect = (img: string) => {
         if (selected != img) {
             setSelected(img)
@@ -33,26 +32,19 @@ export default function Map(props: Readonly<MapProps>) {
 
     return (
         <>
-        {
-            images.map((image: string, index: number) => {
-                // console.log(image);
-                const imgpath = filepath + "/" + image;
-                console.log(imgpath)
-                return (
-                    <div key={image+index.toString()} className="flex decoration-sky-500" onClick={() => setSelect(image)}>
-                        <a className={ imgClass(image) } style={{ backgroundImage: `url("${imgpath}")` }}>
-                            <span className="text-shadow-lg/30">{ image }</span>
-                        </a>
-                    </div>
-                )
-            })
-        }
-        {/* <div className="flex" style={{ minWidth: "100%" }}>
-          <a className="preview w-100 h-100" style={{ backgroundImage: `url("${  }")` }} />
-        </div>
-        <br/>
-        <img src="/cs/de_ancient/A - boost molly from halls - RJT.jpg" className="preview w-100 h-100" alt="ancient" />
-        <img src="/cs/de_ancient/A - boost molly from halls - RJT.jpg" className="hidden" alt="ancient" /> */}
+            {
+                images.map((image: string, index: number) => {
+                    const imgpath = filepath + "/" + image;
+                    console.log(imgpath)
+                    return (
+                        <div key={image+index.toString()} className="flex decoration-sky-500" onClick={() => setSelect(image)}>
+                            <a className={ imgClass(image) } style={{ backgroundImage: `url("${imgpath}")` }}>
+                                <span className="text-shadow-lg/30">{ image }</span>
+                            </a>
+                        </div>
+                    )
+                })
+            }
         </>
     )
 }
